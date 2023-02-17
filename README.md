@@ -12,6 +12,6 @@ Spring Boot II - 5. Progettazione e realizzazione di un semplice web service Spr
 /ruoli/id --> solo admin  
 
 
-## Utenti inseriti
+## Utenti inseriti (con il metodo populateDb commentato):
 Id 1 - Mario Rossi - ADMIN (mariorossi - pwm)  
 Id 2 - Luigi Verdi - USER (luigiverdi - pwl)  
